@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @Valeryio
-- 👀 I’m interested by coding and the learn of algorithms mechanism
-- 🌱 I’m currently learning the C
-- 💞️ I’m looking to collaborate on nothing for right now. I've just started learning C
-- 📫 How to reach me...
-Write me to tommagoma23@gmail.com
+Hello World!**
+
+##Valeryio
+
+I'm found of learning algorithms and understanding how they work.
+Currently deeply dive into C DSA learning
+
+You can write to me at : tommagoma23@gmail.com
+
+S Y
 
 <!---
 Valeryio/Valeryio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
